@@ -1,8 +1,8 @@
-# Silicon Photonic Devices Enabled by Reinforcement Learning
+# Silicon Photonic Transceiver Enabled by Mode division multiplexing
 
 ## Project Overview
 
-This graduation project explores **silicon photonic-based devices enabled by reinforcement learning** for next-generation on-chip optical communication systems. The project combines photonic device modeling with optimization methods to improve performance, efficiency, and design exploration.
+This graduation project explores **silicon photonic-based Transceiver Enabled by Mode division multiplexing** for next-generation on-chip optical communication systems. The project combines photonic device modeling with optimization methods to improve performance, efficiency, and design exploration.
 
 ## My Role
 
